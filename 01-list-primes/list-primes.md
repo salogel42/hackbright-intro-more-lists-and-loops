@@ -1,6 +1,6 @@
 List Exercises 2
 =====================
-*Write the code for these problems in a file called `list_primes.py` inside of the `list-primes` directory of this repository.*
+*Write the code for these problems in a file called `list_primes.py` inside of the `01-list-primes` directory of this repository.*
 
 1. Create a list called `primes` and fill it with the first two prime numbers. Hint: a prime number is a positive number that is not divisible by anything except 1 and itself.
 2. Try to add the next prime number to the `primes` list by typing `primes + 5`.  What happens? 
