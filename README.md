@@ -12,4 +12,4 @@ Go to the [prime lists directory](https://github.com/salogel42/hackbright-intro-
 
 ## Activity 2: Range and For loops
 
-Start with the [range exercise])(https://github.com/salogel42/hackbright-intro-more-lists-and-loops/blob/master/02-range-and-loops/01-range.md) and then move on to the [for loop exercise](https://github.com/salogel42/hackbright-intro-more-lists-and-loops/blob/master/02-range-and-loops/02-for-loops.md).
+Start with the [range exercise](https://github.com/salogel42/hackbright-intro-more-lists-and-loops/blob/master/02-range-and-loops/01-range.md) and then move on to the [for loop exercise](https://github.com/salogel42/hackbright-intro-more-lists-and-loops/blob/master/02-range-and-loops/02-for-loops.md).
