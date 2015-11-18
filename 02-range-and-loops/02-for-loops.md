@@ -1,8 +1,8 @@
 ## Part 2: For Loops
 *Do the following exercises in a file called `for_fun_loops.py` in the `02-range-and-loops` folder.  
-You will probably want to pull your changes to your local clone before beginning these exercises to avoid merging later.
+You will probably want to pull your changes to your local clone before beginning these exercises to avoid merging later.*
 
-Remember to commit early and often!*
+**Remember to commit early and often!**
 
 1. Using a `for­` loop, print out the numbers from 1 to 20.
 1. Using a `for­` loop, print out the numbers from 1 to 20, but if the number is 13, print the word `"hello"` instead of the number.
